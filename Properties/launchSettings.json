@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LeWpf": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\work\\wpf\\LeWpf"
+    }
+  }
+}
